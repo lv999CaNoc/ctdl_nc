@@ -1,0 +1,12 @@
+# Ignore all files
+*
+
+# Un-ignore directories so we can recurse into them
+!*/
+
+# Un-ignore .gitignore file
+!.gitignore
+
+# Un-ignore .cpp and .txt files
+!*.cpp
+!*.txt
